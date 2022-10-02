@@ -1,0 +1,15 @@
+C:\Users\onur3\Desktop\While\bin\Debug\net6.0\While.exe
+C:\Users\onur3\Desktop\While\bin\Debug\net6.0\While.deps.json
+C:\Users\onur3\Desktop\While\bin\Debug\net6.0\While.runtimeconfig.json
+C:\Users\onur3\Desktop\While\bin\Debug\net6.0\While.dll
+C:\Users\onur3\Desktop\While\bin\Debug\net6.0\While.pdb
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.csproj.AssemblyReference.cache
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.AssemblyInfoInputs.cache
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.AssemblyInfo.cs
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.csproj.CoreCompileInputs.cache
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.dll
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\refint\While.dll
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.pdb
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\While.genruntimeconfig.cache
+C:\Users\onur3\Desktop\While\obj\Debug\net6.0\ref\While.dll
